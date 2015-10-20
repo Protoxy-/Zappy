@@ -1,0 +1,9 @@
+windowSize:1920,1080;
+windowMode:1,0;
+introTime:30;
+antialiasing:1;
+graphicRate:0;
+fps:60;
+interfaceTransparency:100;
+broadcastList:40;
+foodSpeed:1;
